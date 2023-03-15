@@ -1,0 +1,9 @@
+[submodule "stanford_alpaca"]
+	path = stanford_alpaca
+	url = https://github.com/tatsu-lab/stanford_alpaca.git
+[submodule "llama-chat"]
+	path = llama-chat
+	url = https://github.com/randaller/llama-chat.git
+[submodule "llama"]
+	path = llama
+	url = https://github.com/facebookresearch/llama

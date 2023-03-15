@@ -1,0 +1,10 @@
+#+title: Open Source Large Language Models
+
+* Stanford Alpaca: An Instruction-following LLaMA model
+- [[file:stanford_alpaca][git repo]]
+
+* LLaMA: Inference code for LLaMA models
+- [[file:llama][git repo]]
+
+* Chat with Meta's LLaMA models at home made easy
+- [[file:llama-chat][git repo]]
